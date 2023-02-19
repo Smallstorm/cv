@@ -44,14 +44,14 @@ sidebar:
     interests:
       title: Увлечения
       info:
-        - item: Climbing
+        - item: игра Вэйци
           link:
 
-        - item: Snowboarding
+        - item: Плаванье
           link:
 
-        - item: Cooking
-          link:
+        # - item: Cooking
+        #   link:
 
 career-profile:
     title: Профиль
@@ -75,7 +75,7 @@ education:
            администрирования, Технологии и методы программирования.
            Объектно-ориентированное программирование
 
-           GPA: 4,7
+           GPA: 4.8
       # - degree: BSc in Applied Mathematics
       #   university: Bristol University
       #   time: 2007 - 2011
@@ -91,7 +91,7 @@ experiences:
     title: Опыт работы
     info:
       - role: Специалист цеха №4
-        time: декабрь 2022 - февряль 2023
+        time: декабрь 2022 - февраль 2023
         company: АО Ангстрем
         details: |
           В обязанности входила конвейерная сборка блоков заряда,
