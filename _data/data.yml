@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Махова Анна
     tagline: junior developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: gitPagePic1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: anna_makhova@inbox.ru
@@ -97,8 +97,8 @@ experiences:
           В обязанности входила конвейерная сборка блоков заряда,
            регулировка/проверка работоспособности 
           зарядных устройств, заполнение документов. 
-            # - Bullet point
-            # - Bullet point
+      #       - Bullet point
+      #       - Bullet point
       # - role: Senior Software Engineer
       #   time: 2014 - 2015
       #   company: Google, London
@@ -123,10 +123,10 @@ experiences:
       #       - Bullet point
 projects:
     title: Проекты
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    #intro: >
+     #  You can list your side projects in this
+      # section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Sudoku
         link: "#hook"
