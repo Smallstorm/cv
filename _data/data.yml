@@ -56,12 +56,11 @@ sidebar:
 career-profile:
     title: Профиль
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Начинающий Python-разработчик без опыта. Обучаюсь на 3 курсе института 
+      по направлению Инфокоммуникационные технологии и системы связи.
+       В свободное время занимаюсь написанием простых программ, на базе
+        которых изучаю различные алгоритмы поиска и фильтрации данных. 
+        В дальнейшем намерена развиваться в направлении Python-разработки           
 education:
     title: Образование
     info:
