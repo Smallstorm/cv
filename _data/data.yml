@@ -30,19 +30,19 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
+      title: Языки
       info:
-        - idiom: English
+        - idiom: Английский
           level: Upper Intermediate
 
-        - idiom: French
+        - idiom: Французский
           level: B1
 
-        - idiom: Korean
+        - idiom: Корейский
           level: 2급
 
     interests:
-      title: Interests
+      title: Увлечения
       info:
         - item: Climbing
           link:
@@ -54,7 +54,7 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: Профиль
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -74,6 +74,8 @@ education:
            техника и информационные технологии, Основы системного и сетевого
            администрирования, Технологии и методы программирования.
            Объектно-ориентированное программирование
+
+           GPA: 4,7
       # - degree: BSc in Applied Mathematics
       #   university: Bristol University
       #   time: 2007 - 2011
@@ -86,7 +88,7 @@ education:
       #       - Bullet point
       #       - Bullet point
 experiences:
-    title: Experiences
+    title: Опыт работы
     info:
       - role: Специалист цеха №4
         time: декабрь 2022 - февряль 2023
@@ -95,8 +97,8 @@ experiences:
           В обязанности входила конвейерная сборка блоков заряда,
            регулировка/проверка работоспособности 
           зарядных устройств, заполнение документов. 
-            - Bullet point
-            - Bullet point
+            # - Bullet point
+            # - Bullet point
       # - role: Senior Software Engineer
       #   time: 2014 - 2015
       #   company: Google, London
@@ -120,7 +122,7 @@ experiences:
       #       - Bullet point
       #       - Bullet point
 projects:
-    title: Projects
+    title: Проекты
     intro: >
       You can list your side projects in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -188,7 +190,7 @@ projects:
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Навыки &amp; Степень владения
 
     toolset:
       - name: Python
