@@ -129,7 +129,7 @@ projects:
     assignments:
       - title: Sudoku
         link: "https://github.com/Smallstorm/sudoku.git"
-        tagline: "Программа, генерирующая таблицы для игры в судоку."
+        tagline: "Программа, генерирующая таблицы для игры в судоку"
 
       # - title: DevStudio
       #   link: "#"
