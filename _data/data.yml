@@ -128,7 +128,7 @@ projects:
       # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Sudoku
-        link: "#https://github.com/Smallstorm/sudoku.git"
+        link: "https://github.com/Smallstorm/sudoku.git"
         tagline: "Программа, генерирующая таблицы для игры в судоку."
 
       # - title: DevStudio
