@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Махова Анна
-    tagline: junior developer
+    tagline: ingineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -50,24 +50,20 @@ sidebar:
         - item: Плаванье
           link:
 
-        # - item: Cooking
-        #   link:
 
 career-profile:
     title: Профиль
     summary: |
-      Начинающий Python-разработчик. Обучаюсь на 3 курсе
-      на направлении "Инфокоммуникационные технологии и системы связи".
-       В свободное время занимаюсь написанием программ, на базе
-        которых изучаю различные алгоритмы поиска и фильтрации данных.
-        В дальнейшем намерена развиваться в направлении Python-разработки.
-        Имею опыт работы в эмуляторах eNSP и Cisco Packet Tracer.
+      Работаю в отделе интеграционных решений в должности инженер. Параллельно получаю степень 
+      магистра по направлению "Инфокоммуникационные технологии и системы связи".
+      Основные мои две сферы интересов - это 1)сетевые технологии, протоколы и системы 
+      и 2) языки, чтение и понимание текстов на иностранном языке.
 education:
     title: Образование
     info:
       - degree: бакалавр
         university: Московский Институт Электронной Техники (МИЭТ)
-        time: 2020 - настоящее время
+        time: 2020 - 2024
         details: |
           Основные дисциплины -  Цифровая обработка сигналов, Основы
           построение инфокоммуникационных систем и сетей, Вычислительная
@@ -76,51 +72,33 @@ education:
            Объектно-ориентированное программирование
 
            GPA: 4.8
-      # - degree: BSc in Applied Mathematics
-      #   university: Bristol University
-      #   time: 2007 - 2011
-      #   details: |
-      #     Describe your study here lorem ipsum dolor sit amet, consectetuer
-      #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      #     sociis natoque penatibus et magnis dis parturient montes, nascetur
-      #     ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      #     pretium quis, sem.
-      #       - Bullet point
-      #       - Bullet point
+      - degree: магистр
+        university: Московский Институт Электронной Техники (МИЭТ)
+        time: 2024 - по настоящее время
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
 experiences:
     title: Опыт работы
     info:
-      - role: специалист цеха №4
-        time: декабрь 2022 - февраль 2023
-        company: АО Ангстрем
+      - role: инженер
+        time: июнь 2023 - по настоящее время
+        company: С-Терра СиЭсПи
         details: |
-          В обязанности входила конвейерная сборка блоков заряда,
-           регулировка/проверка работоспособности
-          зарядных устройств, заполнение документов
-      #       - Bullet point
-      #       - Bullet point
-      # - role: Senior Software Engineer
-      #   time: 2014 - 2015
-      #   company: Google, London
-      #   details: |
-      #     Describe your role here lorem ipsum dolor sit amet, consectetuer
-      #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      #     Cum sociis natoque penatibus et magnis dis parturient montes,
-      #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      #     pellentesque eu, pretium quis, sem.
-      #       - Bullet point
-      #       - Bullet point
-      # - role: UI Developer
-      #   time: 2012 - 2014
-      #   company: Amazon, London
-      #   details: |
-      #     Describe your role here lorem ipsum dolor sit amet, consectetuer
-      #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      #     Cum sociis natoque penatibus et magnis dis parturient montes,
-      #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      #     pellentesque eu, pretium quis, sem.
-      #       - Bullet point
-      #       - Bullet point
+          Основной задачей было написание клиентской документации для настройки определенной конфигурации 
+          VPN соединения. Для этого требовалось предварительно построить описываемую конфигурацию. 
+          Мой опыт включает в себя построение стендов разной топологии
+          (site-to-site, client-server) и с использованием различных протоколов (IPsec, TLS).
+          В ходе построения стенда могли обнаруживаться баги/особенности реализации, которые 
+          я обсуждала с разработчиками и затем либо выносились на исправление или получали соответствующее
+          описание в документе  
+            # - Bullet point
+            # - Bullet point
 projects:
     title: Проекты
     #intro: >
@@ -193,11 +171,8 @@ skills:
     title: Навыки &amp; Степень владения
 
     toolset:
-      - name: Python
+      - name: Стандарты IPsec/TLS
         level: 70%
-
-      - name: C++
-        level: 50%
 
       - name: Сетевое администрирование (Cisco/Huawei)
         level: 85%
