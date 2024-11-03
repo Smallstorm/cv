@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Махова Анна
-    tagline: ingineer
+    tagline: Integration Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -44,11 +44,11 @@ sidebar:
     interests:
       title: Увлечения
       info:
-        - item: Го
-          link:
+        - item: Изготовление предметов из дерева
+          link: создание декоративных и функциональных изделий ручной работы
 
         - item: Плаванье
-          link:
+          link: любимый спорт
 
 
 career-profile:
@@ -57,7 +57,7 @@ career-profile:
       Работаю в отделе интеграционных решений в должности инженер. Параллельно получаю степень 
       магистра по направлению "Инфокоммуникационные технологии и системы связи".
       Основные мои две сферы интересов - это 1)сетевые технологии, протоколы и системы 
-      и 2) языки, чтение и понимание текстов на иностранном языке.
+      и 2) языки, чтение и понимание текстов на иностранном языке. 
 education:
     title: Образование
     info:
@@ -76,13 +76,11 @@ education:
         university: Московский Институт Электронной Техники (МИЭТ)
         time: 2024 - по настоящее время
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Обучение состоит из технических и гуманитарных дисциплин. Из стека технических дисциплин наиболее 
+          интересными для меня являются Администрирование инфокоммуникационных систем и Теория построения 
+          инфокоммуникационных сетей и систем. Из стека гуманитарных - Проектный менеджмент, Корпоративная 
+          культура и Английсткий язык.
+
 experiences:
     title: Опыт работы
     info:
@@ -96,9 +94,8 @@ experiences:
           (site-to-site, client-server) и с использованием различных протоколов (IPsec, TLS).
           В ходе построения стенда могли обнаруживаться баги/особенности реализации, которые 
           я обсуждала с разработчиками и затем либо выносились на исправление или получали соответствующее
-          описание в документе  
-            # - Bullet point
-            # - Bullet point
+          описание в документе. За время работы проводила ревью более 10 сценариев, сама написала около 3 
+          сценариев, и еще во многих принимала участие. 
 projects:
     title: Проекты
     #intro: >
@@ -106,9 +103,8 @@ projects:
       # section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Sudoku
-        link: "https://github.com/Smallstorm/sudoku.git"
-        tagline: "Программа, генерирующая таблицы для игры в судоку"
+      - title: Strongswan
+        tagline: "Настройка VPN-соединения с помощью ПО Strongswan"
 
       # - title: DevStudio
       #   link: "#"
